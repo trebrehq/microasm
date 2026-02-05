@@ -7,3 +7,5 @@ So far labels aren't supported.
 Command line arguments:
 1: The file you want to assemble.
 2: Where to output the hex code.
+
+Build with *make* and build and run with *make run*
